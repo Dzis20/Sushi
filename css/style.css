@@ -29,7 +29,7 @@ body {
 }
 .header {
     height: 1000px;
-    background-image: url(/img/header-background.png);
+    background-image: url('../img/header-background.png');
     background-size: cover;
 }
 
@@ -105,7 +105,7 @@ img.logo {
 .actual {
     height: 490px;
     background: #212121;
-    background-image: url(/img/background-block-2.png);
+    background-image: url('../img/background-block-2.png');
     background-repeat: no-repeat;
     background-position: right;
     padding-top: 165px;
@@ -259,7 +259,7 @@ img.logo {
 }
 
 .discover {
-    background-image: url(/img/discover-back.png);
+    background-image: url('../img/discover-back.png');
     background-size: cover;
     min-height: 1733px;
     padding-top: 240px;
@@ -383,7 +383,7 @@ img.logo {
 
 .picture {
     height: 860px;
-    background-image: url(/img/picture.png);
+    background-image: url('../img/picture.png');
     background-size: cover;
 }
 
